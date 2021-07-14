@@ -1,0 +1,6 @@
+servlet:
+  context-path: /webapi
+
+spring:
+  profiles:
+    active: dev
